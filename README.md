@@ -1,1 +1,1 @@
-# C-CPP-DS-Alg
+# This has projects and programs I did on C, C++, data structures and algorithm implementations.
